@@ -5,12 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://banica.tech](https://banica.tech)
 
-- 📝 I regularly write articles on [https://banica.tech](https://banica.tech)
-
-- 📫 How to reach me **bani4kata@proton.me**
-
-- 📄 Know about my experiences [https://banica.tech](https://banica.tech)
-
 - ⚡ Fun fact **buba**
 
 <h3 align="left">Connect with me:</h3>
