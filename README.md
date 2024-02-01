@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **buba**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: You can't 😘</h3>
 <p align="left">
 </p>
 
