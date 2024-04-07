@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm bani4ka also know as wAvl4o</h1>
 <h3 align="center">Full Stack Web developer / Minecraft developer</h3>
 
-- 🔭 I’m currently working on [my portfolio n other projects](https://banica.tech)
+- 🔭 I’m currently working on [my own Minecraft Anti-Cheat](https://zerohax.com)
 
-- 👨‍💻 All of my projects are available at [https://banica.tech](https://banica.tech)
 
-- ⚡ Fun fact **buba**
-
-<h3 align="left">Connect with me: You can't 😘</h3>
+<h3 align="left">Connect with me: hhk7 on discord</h3>
 <p align="left">
 </p>
 
