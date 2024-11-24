@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm bani4ka also know as wAvl4o</h1>
 <h3 align="center">Full Stack Web developer / Minecraft developer</h3>
 
-- 🔭 I’m currently working on [my own Minecraft Anti-Cheat](https://zerohax.com)
+- 🔭 I’m currently working on Secret
 
 
 <h3 align="left">Connect with me: hhk7 on discord</h3>
