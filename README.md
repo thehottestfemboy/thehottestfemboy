@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm bani4ka also know as wAvl4o</h1>
+<h1 align="center">Hi 👋, I'm a hot femboy</h1>
 <h3 align="center">Full Stack Web developer / Minecraft developer</h3>
 
-- 🔭 I’m currently working on Secret
+- 🔭 I’m currently working on a hardware crypto wallet
 
 
-<h3 align="left">Connect with me: hhk7 on discord</h3>
+<h3 align="left">Connect with me: none yet</h3>
 <p align="left">
 </p>
 
