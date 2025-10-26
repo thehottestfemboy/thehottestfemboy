@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a hardware crypto wallet
 
 
-<h3 align="left">Connect with me: none yet</h3>
+<h3 align="left">Connect with me: can't yet</h3>
 <p align="left">
 </p>
 
