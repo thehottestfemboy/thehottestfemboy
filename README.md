@@ -3,8 +3,6 @@
 - Done projects from currently working on: Hardware crypto wallet          
 - 🔭 I’m currently working on my own crypto swap api
 
-
-<h3 align="left">Connect with me: can't yet</h3>
 <p align="left">
 </p>
 
