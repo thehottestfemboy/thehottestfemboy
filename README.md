@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a hot femboy</h1>
-<h3 align="center">Full Stack Web developer / Minecraft developer</h3>
+<h3 align="center">Full Stack Web developer / Java & Python developer</h3>
 - Done projects from currently working on: Hardware crypto wallet          
 - 🔭 I’m currently working on my own crypto swap api
 
